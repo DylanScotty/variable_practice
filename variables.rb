@@ -18,8 +18,8 @@ needs_coffee = True
 
 needs_redbull = True
 
-puts(name+shoe_size)
-puts(name+net_worth)
-puts(name+email)
+puts "His name is #{name}"
+puts "His age is #{age}"
+puts "His shoe size is #{shoe_size}"
 
 
