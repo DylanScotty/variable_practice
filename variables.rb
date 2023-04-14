@@ -14,9 +14,9 @@ debt_amount = 4000.00
 
 net_worth = 1.00
 
-needs_coffee = True
+need_coffee = true
 
-needs_redbull = True
+need_redbull = true
 
 puts "His name is #{name}"
 puts "His age is #{age}"
